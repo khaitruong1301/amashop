@@ -68,7 +68,10 @@
       </tbody>
     </v-table>
     <div class="pagination_ui flex justify-center mt-4">
-      <smart-pagination :current-page.sync="currentPage" :total-pages="totalPages" />
+      <smart-pagination
+        :current-page.sync="currentPage"
+        :total-pages="totalPages"
+      />
     </div>
     <ModalDetail ref="modalDetail" :item-order="itemOrder" :comfirm="comfirm" />
   </div>
@@ -110,7 +113,7 @@ export default {
     },
     // isShow: this.$refs.modalDetail.visible,
     currentPage: 1,
-    totalPages: 10,
+    totalPages: 0,
     selectedRows: [],
     itemOrder: {},
     newOrders: []
@@ -118,9 +121,11 @@ export default {
 
   methods: {
     async getOrder() {
-      const order = await this.$api.order.getOrder({ search: '', page: 1, limit: 10, sort: '-createdAt' })
+    console.log(this.props)
 
-      console.log(order)
+      const order = await this.$api.order.getOrderAdmin({search: '', page: 1, limit: 200, sort: '-createdAt' });
+
+      // console.log(order)
       this.newOrders = order.listOrder.listOrder
       // console.log('new products: ', this.newProducts)
     },
@@ -137,7 +142,7 @@ export default {
       // this.$refs[`tr${trId}`].style.color = 'red'
       this.$refs[`tr${trId}`][0].classList.add('table-info')
       this.selectedRows = row
-      console.log('row: ', this.selectedRows)
+      // console.log('row: ', this.selectedRows)
     },
     focusTable(row) {
       const trId = row._id
@@ -147,7 +152,7 @@ export default {
       }
       this.$refs[`tr${trId}`][0].classList.add('table-info')
       this.selectedRows = row
-      console.log('row: ', this.selectedRows)
+      // console.log('row: ', this.selectedRows)
     },
     deliveryLength(row) {
       return row.deliveryAddress.length
@@ -194,7 +199,7 @@ export default {
   padding-right: 0.5em;
   width: 1.28571429em;
   display: inline-block;
-  text-align: center;
+  text-align: left;
 }
 
 .vt-sortable:before {
@@ -219,7 +224,7 @@ export default {
 
   th,
   td {
-    @apply text-center bg-white
+    @apply text-left bg-white pl-5
   }
 }
 

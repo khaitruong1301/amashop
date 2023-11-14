@@ -244,7 +244,7 @@ export default {
         padding-right: 0.5em;
         width: 1.28571429em;
         display: inline-block;
-        text-align: center;
+        text-align: left;
     }
 
     .vt-sortable:before{
@@ -264,7 +264,7 @@ export default {
         @apply h-10 border-t border-b border-[#ccc]
       }
       th,td{
-        @apply text-center bg-white
+        @apply text-left bg-white pl-5
       }
     }
     .table-info{

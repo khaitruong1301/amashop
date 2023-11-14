@@ -110,7 +110,7 @@ export default {
     }
   },
   mounted () {
-    // this.getAllTransaction(8, 1)
+    this.getAllTransaction(8, 1)
     this.getWaitForComfirm(100, 1)
     this.getSuccessful(100, 1)
     this.getCanceled(100, 1)
@@ -122,15 +122,15 @@ export default {
     callback (key) {
       console.log(key)
     },
-    // async getAllTransaction (limit, page) {
-    //   try {
-    //     const dataOrder = await this.$api.order.getOrderAdmin({ cancel: 0, limit, page })
+    async getAllTransaction (limit, page) {
+      try {
+        const dataOrder = await this.$api.order.getOrderAdmin({ cancel: 0, limit, page })
 
-    //     this.allTransaction = dataOrder.listOrder
-    //   } catch (error) {
-    //     console.log(error)
-    //   }
-    // },
+        this.allTransaction = dataOrder.listOrder
+      } catch (error) {
+        console.log(error)
+      }
+    },
     async getWaitForComfirm (limit, page) {
       try {
         const dataOrder = await this.$api.order.getOrderAdmin({ cancel: 0, status: 0, limit, page })
@@ -157,11 +157,11 @@ export default {
         console.log(error)
       }
     },
-    // onChangeAll (value) {
-    //   // getAllTransaction()
-    //   console.log('page: ', value)
-    //   this.getAllTransaction(8, value)
-    // },
+    onChangeAll (value) {
+      getAllTransaction()
+      console.log('page: ', value)
+      this.getAllTransaction(8, value)
+    },
     onChangeComfirm (value) {
       console.log('page: ', value)
       this.getWaitForComfirm(8, value)
