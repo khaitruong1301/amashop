@@ -277,8 +277,8 @@ export default {
 
       for (let i = 0; i < this.formDataIm.datas.length; i++) {
         await this.$cloudinary.upload(this.formDataIm.datas[i], {
-          folder: 'amashop',
-          uploadPreset: 'wahxjxv4'
+          folder: 'shop',
+          uploadPreset: 'oonzvp0o'
         }).then(res => {console.log(res); this.form.images.push(res.url)})
       }
     },
