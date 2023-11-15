@@ -19,7 +19,7 @@
       </div>
       <div class="space-y-2">
         <h2 class="text-3xl text-black font-medium">
-          ABOUT OUR ANDSHOP STORE
+          ABOUT OUR VIETQUANG FASHION STORE
         </h2>
         <p class="text-2xl text-black font-normal">
           We believe that every project existing in digital world is a result of an idea and every idea has a cause.

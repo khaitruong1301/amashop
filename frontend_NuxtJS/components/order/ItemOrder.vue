@@ -57,7 +57,7 @@
 <script>
 const columns = [
   {
-    title: 'SHOP: ANDSHOP',
+    title: 'SHOP: VietQuang-Fashion',
     dataIndex: 'product',
     scopedSlots: { customRender: 'product' }
     // width: 200

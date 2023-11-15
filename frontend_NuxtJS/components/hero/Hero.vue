@@ -5,14 +5,17 @@
         <div class="row">
           <div class="col-lg-6 z-[2]">
             <div class="banner_text_one ">
-              <h1 class="flipInX animate-[flipIn_3s_ease-in] delay-300">
-                Live For <span class="flipInX animate-[flipIn_3s_ease-in] delay-300" style="animation-duration: 2s; animation-delay: 0.5s;">Fashion</span>
-              </h1> <h3>Save Up To 50%</h3> <a class="theme-btn-one bg-blacks btn_md cursor-pointer" @click.prevent="searchSubject">Shop Now</a>
+              <div class="flipInX animate-[flipIn_3s_ease-in] delay-300">
+                <span class="text-black text-[36px]">
+                  UP TO <span class="text-orange">70%</span> OFF
+                </span> <h3 class="flipInX animate-[flipIn_3s_ease-in] delay-300 text-black text-[60px]" style="animation-duration: 2s; animation-delay: 0.5s;">Fashion Collection</h3>
+              </div>
+              <h3 class="text-black text-[60px]"> Summer Sale</h3> <a class="theme-btn-one bg-orange text-white btn_md cursor-pointer" @click.prevent="searchSubject">Shop Now</a>
             </div>
           </div>
           <div class="col-lg-6">
             <div class="hero_img lg:animate-[slideInRight_2.8s_ease-in] delay-300 animate-[slideInRight_2s_ease-in]">
-              <img src="@/static/banner/item.png" alt="img" class="slideInRight">
+              <img src="@/static/banner/item.png" alt="img" class="slideInRight" height="100%">
             </div>
           </div>
         </div>
@@ -38,7 +41,7 @@ export default {
 <style lang="scss" scoped>
 #banner_one {
   @apply lg:py-48 pt-14 pb-32 lg:bg-[top_left] bg-[center];
-    background-image: url(@/static/banner/banner.jpg);
+    background-image: url(@/static/banner/banner.png);
     // padding-top: 50px;
     padding-bottom: 100px;
     display: flex;
@@ -65,8 +68,8 @@ export default {
 .banner_text_one h3 {
     text-transform: uppercase;
     font-weight: 500;
-    color: #f3f3f3;
-    font-size: 24px;
+    // color: #f3f3f3;
+    // font-size: 24px;
     margin-top:10px ;
 }
 .bg-blacks {

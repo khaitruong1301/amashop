@@ -1,6 +1,6 @@
 <template>
   <a-menu
-    class="sm:font-bold lg:w-9/12  lg:text-[0.9rem] lg:bg-base lg:px-24 lg:space-x-16 hidden sm:block lg:text-black  sm:px-12 sm:bg-base"
+    class="sm:font-bold lg:w-9/12  lg:text-[0.9rem] lg:bg-white lg:px-24 lg:space-x-16 hidden sm:block lg:text-black  sm:px-12 sm:bg-white"
     mode="horizontal"
     :default-selected-keys="['1']"
     :style="{ lineHeight: '80px' }"
@@ -60,7 +60,7 @@ export default {
 }
 .ant-menu-horizontal > .ant-menu-item:hover,
 .ant-menu-horizontal > .ant-menu-item-selected{
-    color: #f79837;
+    color: #AE1C99;
 
 }
 .ant-menu-horizontal > .ant-menu-item:hover,

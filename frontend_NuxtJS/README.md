@@ -1,4 +1,4 @@
-# AndShop
+# VietQuang-Fashion
 
 ## Build Setup
 

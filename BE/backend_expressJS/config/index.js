@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 async function connect() {
     try {
-        await mongoose.connect('mongodb://root:1234@localhost:27017/AndShop?authSource=admin');
+        await mongoose.connect('mongodb://localhost:27017/AndShop');
         console.log('success');
     }
     catch (error) {

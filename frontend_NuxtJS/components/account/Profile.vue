@@ -102,7 +102,7 @@ export default {
 
   .wrapper .left{
     width: 35%;
-    background: linear-gradient(to right,#f79837,#efd7c7);
+    background: linear-gradient(to right,#AE1C99,#efd7c7);
     padding: 30px 25px;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
@@ -177,7 +177,7 @@ export default {
   .wrapper .social_media ul li{
     width: 45px;
     height: 45px;
-    background: linear-gradient(to right,#f79837,#efd7c7);
+    background: linear-gradient(to right,#AE1C99,#efd7c7);
     margin-right: 10px;
     border-radius: 5px;
     text-align: center;

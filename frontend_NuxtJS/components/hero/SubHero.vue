@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div class="grid lg:grid-cols-3 grid-cols-1 g gap-8 px-4 mt-28 mb-16">
     <div class="grid grid-flow-row gap-6">
       <div class="relative overflow-hidden img-zoom-hover">
@@ -45,7 +45,7 @@
           <h4 class="text-2xl text-black font-semibold pb-4">
             COLLECTION
           </h4>
-          <a href="/shop" class="theme-btn-one bg-black text-white text-[1rem] btn_sm pt-1">SHOP NOW</a>
+          <a href="/search" class="theme-btn-one bg-black text-white text-[1rem] btn_sm pt-1">SHOP NOW</a>
         </div>
       </div>
     </div>
@@ -73,6 +73,46 @@
           </h4>
           <a class="cursor-pointer theme-btn-one bg-black text-white text-[1rem] btn_sm pt-1" @click.prevent="searchSubject">SHOP NOW</a>
         </div>
+      </div>
+    </div>
+  </div>
+</template> -->
+<template>
+  <div class="flex justify-center items-center gap-x-8 px-4 mt-28 mb-16">
+    <div class="relative overflow-hidden img-zoom-hover rounded-3xl">
+      <img src="@/static/banner/syle-bg-one.webp" alt="hero photo">
+      <div class="product_var_one_text">
+        <p>NEW STYLE</p>
+        <!-- <h4 class="color_one text-2xl font-semibold">
+          OUTERWEAR
+        </h4> -->
+        <h2 class="text text-3xl text-black font-bold">
+          Get 65% Offer
+          & Make New
+          Fusion.
+        </h2>
+        <h4 class="text-2xl text-black font-semibold pb-4">
+          COLLECTION
+        </h4>
+        <a class="cursor-pointer theme-btn-one bg-yellow text-black text-[1rem] btn_sm pt-1 font-semibold rounded-3xl" @click.prevent="searchSubject">SHOP NOW</a>
+      </div>
+    </div>
+    <div class="relative overflow-hidden img-zoom-hover rounded-3xl">
+      <img src="@/static/banner/style-bg-two.webp" alt="hero photo">
+      <div class="product_var_one_text">
+        <p>Mage OFFER</p>
+        <!-- <h4 class="color_one text-2xl font-semibold">
+          OUTERWEAR
+        </h4> -->
+        <h2 class="text text-3xl text-black font-bold">
+          Make your New
+          Style with Our
+          Products
+        </h2>
+        <h4 class="text-2xl text-black font-semibold pb-4">
+          COLLECTION
+        </h4>
+        <a class="cursor-pointer theme-btn-one bg-orange text-white text-[1rem] btn_sm pt-1 font-semibold rounded-3xl" @click.prevent="searchSubject">SHOP NOW</a>
       </div>
     </div>
   </div>

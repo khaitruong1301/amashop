@@ -9,7 +9,7 @@ export default {
     port: 8080
   },
   head: {
-    title: 'AndShop',
+    title: 'VietQuang-Fashion',
     htmlAttrs: {
       lang: 'en'
     },

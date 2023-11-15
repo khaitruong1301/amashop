@@ -27,7 +27,7 @@
             {{ record.product.name }}
           </nuxt-link>
           <nuxt-link to="/" class="text-blue text-[1rem]">
-            Shop: AndShop
+            Shop: VietQuang-Fashion
           </nuxt-link>
           <p>Size: {{ record.size }}</p>
         </div>

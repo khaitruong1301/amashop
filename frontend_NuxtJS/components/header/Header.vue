@@ -1,7 +1,7 @@
 <template>
   <nav
     ref="menu"
-    class="flex justify-between sticky  top-0 bg-base z-10 shadow-md lg:px-10 px-4 max-w-[100%]"
+    class="flex justify-between sticky  top-0 bg-white z-10 shadow-md lg:px-10 px-4 max-w-[100%]"
     role="navigation"
     aria-label="main navigation"
   >
@@ -167,7 +167,7 @@ export default {
 
 }
 .hover_item{
-  @apply hover:text-[#f79837] hover:transition-all hover:duration-300 hover:ease-in-out
+  @apply hover:text-[#AE1C99] hover:transition-all hover:duration-300 hover:ease-in-out
 }
 .item_count{
   width: 20px;
@@ -177,19 +177,20 @@ export default {
     margin-left: 10px;
     top: 19px;
     /* line-height: 17px; */
-    background: #f79837;
+    background: #AE1C99;
     text-align: center;
     color: white;
     border: none;
 }
 .item_count:hover{
-  background:#f79837 ;
+  background:#AE1C99 ;
 }
 .title {
     background: url('../../static/logo/logoAndShop.png') no-repeat;
     background-position: 50% 50%;
-    // background-size: 220px;
-    @apply lg:bg-logopc bg-logomobile;
+    background-size: cover;
+    background-size: 100px;
+    // @apply lg:bg-logopc bg-logomobile;
   }
 
 .dropdown {

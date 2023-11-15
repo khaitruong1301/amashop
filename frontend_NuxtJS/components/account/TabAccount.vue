@@ -64,10 +64,10 @@ export default {
         @apply m-0  mr-3 py-3
     }
     .ant-tabs .ant-tabs-left-bar .ant-tabs-tab:hover{
-      @apply bg-[#f79837] text-white   duration-300 transition-all ease-in-out delay-100
+      @apply bg-[#AE1C99] text-white   duration-300 transition-all ease-in-out delay-100
     }
     .ant-tabs-tab-active{
-      @apply  bg-[#f79837] text-white
+      @apply  bg-[#AE1C99] text-white
     }
 }
 </style>
