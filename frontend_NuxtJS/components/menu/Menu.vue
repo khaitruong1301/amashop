@@ -10,9 +10,22 @@
         HOME
       </nuxt-link>
     </a-menu-item>
+ 
+    <a-menu-item key="6" class="relative sub_shop">
+      CATEGORY
+      <a-icon type="down" class="absolute leading-[78px] font-medium pl-[1px]" />
+      
+      <ul  class="hidden absolute bg-white item-menu_shop">
+        <li v-for="category in categories" :key="category.id" @click="searchCategory(category.value)">
+          {{ category.name }}
+        </li>
+      </ul>
+    </a-menu-item>
+    
     <a-menu-item key="2" class="relative sub_shop">
       SHOP<a-icon type="down" class="absolute leading-[78px] font-medium pl-[1px]" />
-      <ul class="hidden absolute bg-[#fef5ef] item-menu_shop">
+     
+      <ul  class="hidden absolute bg-[#fef5ef] item-menu_shop">
         <li @click="searchSubject(1)">
           Men
         </li>
@@ -46,9 +59,31 @@
 </template>
 <script>
 export default {
+  data() {
+
+    return {
+      categories: []
+    }
+  },
+  created() {
+    this.fetchCategories();
+  },
+
   methods: {
+    async fetchCategories() {
+      try {
+        const response = await this.$api.product.getCategory();
+        console.log(response.data.category)
+        this.categories = response.data.category; // Giả sử response.data là mảng các category
+      } catch (error) {
+        console.error(error);
+      }
+    },
     searchSubject (value) {
       this.$router.replace({ path: '/search', query: { keyword: '', subject: value } })
+    },
+    searchCategory (value) {
+      this.$router.replace({ path: '/search', query: { keyword: value } })
     }
   }
 }
