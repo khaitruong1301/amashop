@@ -7,10 +7,10 @@
 Các Model được gửi trong file PDF, có thể thêm hoặc bớt vài thứ nhưng cốt lõi phải có các Model tương ứng với file pdf.
 + Các env kèm theo:
 // Cloudinary
-CLOUD_NAME=dkc4etcga
-API_KEY=653864826476444
-API_SECRET=YP-Uk1ZorD0_D3-K3NI6EVsmXQg
-UPLOAD_PRESET=BanHang_images
+CLOUD_NAME=dcrky5f1l
+API_KEY=521969556635978
+API_SECRET=JIs02NjijlUT5389hbGTf3Ncor4
+UPLOAD_PRESET=oonzvp0o
 
 // JWT
 ACCESS_TOKEN_SECRET =  kK2LvYceGTnHEEm94

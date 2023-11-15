@@ -8,17 +8,14 @@
   "name": "M",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662387951939"
-    }
+    "$date": "2022-09-05T14:25:51.939Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662387951939"
-    }
+    "$date": "2022-09-05T14:25:51.939Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "631606efb970c6169180dc04"
   },
@@ -28,17 +25,14 @@
   "name": "S",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662387951939"
-    }
+    "$date": "2022-09-05T14:25:51.939Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662387951939"
-    }
+    "$date": "2022-09-05T14:25:51.939Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "631606efb970c6169180dc02"
   },
@@ -48,17 +42,14 @@
   "name": "L",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662387951938"
-    }
+    "$date": "2022-09-05T14:25:51.938Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662387951938"
-    }
+    "$date": "2022-09-05T14:25:51.938Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63160d69b970c6169180dc12"
   },
@@ -68,17 +59,14 @@
   "name": "L",
   "numberInStock": 183,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662389609737"
-    }
+    "$date": "2022-09-05T14:53:29.737Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667228445126"
-    }
+    "$date": "2022-10-31T15:00:45.126Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63160d69b970c6169180dc13"
   },
@@ -88,17 +76,14 @@
   "name": "M",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662389609738"
-    }
+    "$date": "2022-09-05T14:53:29.738Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662389609738"
-    }
+    "$date": "2022-09-05T14:53:29.738Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63160d69b970c6169180dc14"
   },
@@ -108,17 +93,14 @@
   "name": "S",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662389609738"
-    }
+    "$date": "2022-09-05T14:53:29.738Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662389609738"
-    }
+    "$date": "2022-09-05T14:53:29.738Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161031b970c6169180dc1a"
   },
@@ -128,17 +110,14 @@
   "name": "L",
   "numberInStock": 173,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662390321308"
-    }
+    "$date": "2022-09-05T15:05:21.308Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666845766067"
-    }
+    "$date": "2022-10-27T04:42:46.067Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161031b970c6169180dc1b"
   },
@@ -148,17 +127,14 @@
   "name": "M",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662390321309"
-    }
+    "$date": "2022-09-05T15:05:21.309Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662390321309"
-    }
+    "$date": "2022-09-05T15:05:21.309Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161031b970c6169180dc1c"
   },
@@ -168,17 +144,14 @@
   "name": "S",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662390321309"
-    }
+    "$date": "2022-09-05T15:05:21.309Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662390321309"
-    }
+    "$date": "2022-09-05T15:05:21.309Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161255b970c6169180dc22"
   },
@@ -188,17 +161,14 @@
   "name": "L",
   "numberInStock": 181,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662390869917"
-    }
+    "$date": "2022-09-05T15:14:29.917Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968745256"
-    }
+    "$date": "2022-10-28T14:52:25.256Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161255b970c6169180dc23"
   },
@@ -208,17 +178,14 @@
   "name": "M",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662390869917"
-    }
+    "$date": "2022-09-05T15:14:29.917Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662390869917"
-    }
+    "$date": "2022-09-05T15:14:29.917Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161255b970c6169180dc24"
   },
@@ -228,17 +195,14 @@
   "name": "S",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662390869917"
-    }
+    "$date": "2022-09-05T15:14:29.917Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662390869917"
-    }
+    "$date": "2022-09-05T15:14:29.917Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161918b970c6169180dc32"
   },
@@ -248,17 +212,14 @@
   "name": "L",
   "numberInStock": 167,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662392600317"
-    }
+    "$date": "2022-09-05T15:43:20.317Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667288247278"
-    }
+    "$date": "2022-11-01T07:37:27.278Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161918b970c6169180dc34"
   },
@@ -268,17 +229,14 @@
   "name": "S",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662392600318"
-    }
+    "$date": "2022-09-05T15:43:20.318Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662392600318"
-    }
+    "$date": "2022-09-05T15:43:20.318Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161918b970c6169180dc33"
   },
@@ -288,17 +246,14 @@
   "name": "M",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662392600318"
-    }
+    "$date": "2022-09-05T15:43:20.318Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662392600318"
-    }
+    "$date": "2022-09-05T15:43:20.318Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "631619ecb970c6169180dc3a"
   },
@@ -308,17 +263,14 @@
   "name": "L",
   "numberInStock": 164,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662392812321"
-    }
+    "$date": "2022-09-05T15:46:52.321Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667288247279"
-    }
+    "$date": "2022-11-01T07:37:27.279Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "631619ecb970c6169180dc3b"
   },
@@ -328,17 +280,14 @@
   "name": "M",
   "numberInStock": 197,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662392812321"
-    }
+    "$date": "2022-09-05T15:46:52.321Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1663078596296"
-    }
+    "$date": "2022-09-13T14:16:36.296Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "631619ecb970c6169180dc3c"
   },
@@ -348,17 +297,14 @@
   "name": "S",
   "numberInStock": 196,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662392812321"
-    }
+    "$date": "2022-09-05T15:46:52.321Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1663078714686"
-    }
+    "$date": "2022-09-13T14:18:34.686Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161a61b970c6169180dc42"
   },
@@ -368,17 +314,14 @@
   "name": "L",
   "numberInStock": 183,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662392929008"
-    }
+    "$date": "2022-09-05T15:48:49.008Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667288247279"
-    }
+    "$date": "2022-11-01T07:37:27.279Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161a61b970c6169180dc43"
   },
@@ -388,17 +331,14 @@
   "name": "M",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662392929008"
-    }
+    "$date": "2022-09-05T15:48:49.008Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662392929008"
-    }
+    "$date": "2022-09-05T15:48:49.008Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161a61b970c6169180dc44"
   },
@@ -408,17 +348,14 @@
   "name": "S",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662392929008"
-    }
+    "$date": "2022-09-05T15:48:49.008Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662392929008"
-    }
+    "$date": "2022-09-05T15:48:49.008Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161af8b970c6169180dc4a"
   },
@@ -428,17 +365,14 @@
   "name": "L",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662393080491"
-    }
+    "$date": "2022-09-05T15:51:20.491Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662393080491"
-    }
+    "$date": "2022-09-05T15:51:20.491Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161af8b970c6169180dc4b"
   },
@@ -448,17 +382,14 @@
   "name": "M",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662393080491"
-    }
+    "$date": "2022-09-05T15:51:20.491Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662393080491"
-    }
+    "$date": "2022-09-05T15:51:20.491Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63161af8b970c6169180dc4c"
   },
@@ -468,17 +399,14 @@
   "name": "S",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662393080491"
-    }
+    "$date": "2022-09-05T15:51:20.491Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1662393080491"
-    }
+    "$date": "2022-09-05T15:51:20.491Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63172540d5501d37b7d98982"
   },
@@ -488,17 +416,14 @@
   "name": "M",
   "numberInStock": 199,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666064109855"
-    }
+    "$date": "2022-10-18T03:35:09.855Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667062011041"
-    }
+    "$date": "2022-10-29T16:46:51.041Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63172540d5501d37b7d98983"
   },
@@ -508,17 +433,14 @@
   "name": "S",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666064109855"
-    }
+    "$date": "2022-10-18T03:35:09.855Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666064109855"
-    }
+    "$date": "2022-10-18T03:35:09.855Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63172540d5501d37b7d98981"
   },
@@ -528,17 +450,14 @@
   "name": "L",
   "numberInStock": 197,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666064109855"
-    }
+    "$date": "2022-10-18T03:35:09.855Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666064109855"
-    }
+    "$date": "2022-10-18T03:35:09.855Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63160a34b970c6169180dc0a"
   },
@@ -548,17 +467,14 @@
   "name": "L",
   "numberInStock": 1998,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666065356723"
-    }
+    "$date": "2022-10-18T03:55:56.723Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968834443"
-    }
+    "$date": "2022-10-28T14:53:54.443Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63160a34b970c6169180dc0b"
   },
@@ -568,17 +484,14 @@
   "name": "M",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666065356724"
-    }
+    "$date": "2022-10-18T03:55:56.724Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666065356724"
-    }
+    "$date": "2022-10-18T03:55:56.724Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "63160a34b970c6169180dc0c"
   },
@@ -588,17 +501,14 @@
   "name": "S",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666065356724"
-    }
+    "$date": "2022-10-18T03:55:56.724Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666065356724"
-    }
+    "$date": "2022-10-18T03:55:56.724Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d655b6cbb4c1d05db783d"
   },
@@ -608,17 +518,14 @@
   "name": "L",
   "numberInStock": 297,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667065179175"
-    }
+    "$date": "2022-10-29T17:39:39.175Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667274059378"
-    }
+    "$date": "2022-11-01T03:40:59.378Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d655b6cbb4c1d05db783e"
   },
@@ -628,17 +535,14 @@
   "name": "S",
   "numberInStock": 1000,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667065179175"
-    }
+    "$date": "2022-10-29T17:39:39.175Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667065179175"
-    }
+    "$date": "2022-10-29T17:39:39.175Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d664abd811c14bbae624b"
   },
@@ -648,17 +552,14 @@
   "name": "L",
   "numberInStock": 297,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667065418549"
-    }
+    "$date": "2022-10-29T17:43:38.549Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667227874746"
-    }
+    "$date": "2023-11-14T06:37:33.018Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d664abd811c14bbae624c"
   },
@@ -668,17 +569,14 @@
   "name": "S",
   "numberInStock": 1000,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667065418549"
-    }
+    "$date": "2022-10-29T17:43:38.549Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667065418549"
-    }
+    "$date": "2022-10-29T17:43:38.549Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d68b8bd811c14bbae62af"
   },
@@ -688,17 +586,14 @@
   "name": "L",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667066040579"
-    }
+    "$date": "2022-10-29T17:54:00.579Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667066040579"
-    }
+    "$date": "2022-10-29T17:54:00.579Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d68b8bd811c14bbae62b0"
   },
@@ -708,57 +603,14 @@
   "name": "M",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667066040579"
-    }
+    "$date": "2022-10-29T17:54:00.579Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667066040579"
-    }
+    "$date": "2022-10-29T17:54:00.579Z"
   },
   "__v": 0
-},{
-  "_id": {
-    "$oid": "635d6930bd811c14bbae62b5"
-  },
-  "product": {
-    "$oid": "635d6930bd811c14bbae62b3"
-  },
-  "name": "L",
-  "numberInStock": 200,
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1667066160039"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1667066160039"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "635d6930bd811c14bbae62b6"
-  },
-  "product": {
-    "$oid": "635d6930bd811c14bbae62b3"
-  },
-  "name": "M",
-  "numberInStock": 200,
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1667066160039"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1667066160039"
-    }
-  },
-  "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "631613fab970c6169180dc2a"
   },
@@ -768,17 +620,14 @@
   "name": "L",
   "numberInStock": 93,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667228122623"
-    }
+    "$date": "2022-10-31T14:55:22.623Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667228122623"
-    }
+    "$date": "2022-10-31T14:55:22.623Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "631613fab970c6169180dc2b"
   },
@@ -788,17 +637,14 @@
   "name": "M",
   "numberInStock": 100,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667228122623"
-    }
+    "$date": "2022-10-31T14:55:22.623Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667228122623"
-    }
+    "$date": "2022-10-31T14:55:22.623Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "631613fab970c6169180dc2c"
   },
@@ -808,14 +654,197 @@
   "name": "S",
   "numberInStock": 200,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667228122623"
-    }
+    "$date": "2022-10-31T14:55:22.623Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667228122623"
-    }
+    "$date": "2022-10-31T14:55:22.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6552ed5aa22658b51eb863d5"
+  },
+  "product": {
+    "$oid": "6552ed5aa22658b51eb863d3"
+  },
+  "name": "1",
+  "numberInStock": 1,
+  "createdAt": {
+    "$date": "2023-11-14T03:45:30.532Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T03:45:30.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6552f0f5a22658b51eb86411"
+  },
+  "product": {
+    "$oid": "6552f0f5a22658b51eb8640f"
+  },
+  "name": "1",
+  "numberInStock": 2,
+  "createdAt": {
+    "$date": "2023-11-14T04:00:53.150Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T04:00:53.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6552f25da22658b51eb86415"
+  },
+  "product": {
+    "$oid": "6552f25da22658b51eb86413"
+  },
+  "name": "1",
+  "numberInStock": 2,
+  "createdAt": {
+    "$date": "2023-11-14T04:06:53.413Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T04:06:53.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6552f37da22658b51eb86419"
+  },
+  "product": {
+    "$oid": "6552f37da22658b51eb86417"
+  },
+  "name": "1",
+  "numberInStock": 2,
+  "createdAt": {
+    "$date": "2023-11-14T04:11:41.989Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T04:11:41.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6552f3a6a22658b51eb8641d"
+  },
+  "product": {
+    "$oid": "6552f3a6a22658b51eb8641b"
+  },
+  "name": "2",
+  "numberInStock": 2,
+  "createdAt": {
+    "$date": "2023-11-14T04:12:22.566Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T04:12:22.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6552f42bc9659196b2df95a6"
+  },
+  "product": {
+    "$oid": "6552f42bc9659196b2df95a4"
+  },
+  "name": "2",
+  "numberInStock": 3,
+  "createdAt": {
+    "$date": "2023-11-14T04:14:35.672Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T04:14:35.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6552f463c9659196b2df95aa"
+  },
+  "product": {
+    "$oid": "6552f463c9659196b2df95a8"
+  },
+  "name": "2",
+  "numberInStock": 3,
+  "createdAt": {
+    "$date": "2023-11-14T04:15:31.327Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T04:15:31.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635d6930bd811c14bbae62b6"
+  },
+  "product": {
+    "$oid": "635d6930bd811c14bbae62b3"
+  },
+  "name": "M",
+  "numberInStock": 200,
+  "createdAt": {
+    "$date": "2023-11-14T04:22:56.160Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T06:37:33.018Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635d6930bd811c14bbae62b5"
+  },
+  "product": {
+    "$oid": "635d6930bd811c14bbae62b3"
+  },
+  "name": "L",
+  "numberInStock": 200,
+  "createdAt": {
+    "$date": "2023-11-14T04:22:56.160Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T04:22:56.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65532f7713ad31109519afbc"
+  },
+  "product": {
+    "$oid": "65532f7713ad31109519afba"
+  },
+  "name": "2",
+  "numberInStock": 3,
+  "createdAt": {
+    "$date": "2023-11-14T08:27:35.964Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T08:27:35.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6553376e13ad31109519b1d4"
+  },
+  "product": {
+    "$oid": "6553376e13ad31109519b1d2"
+  },
+  "name": "2",
+  "numberInStock": 3,
+  "createdAt": {
+    "$date": "2023-11-14T09:01:34.726Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T09:01:34.726Z"
   },
   "__v": 0
 }]

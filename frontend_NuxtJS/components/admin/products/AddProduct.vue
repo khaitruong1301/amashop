@@ -17,7 +17,7 @@
           "
         />
       </a-form-model-item>
-      <a-form-model-item ref="category" label="Category" prop="category">
+      <!-- <a-form-model-item ref="category" label="Category" prop="category">
         <a-input
           v-model="form.category"
           @blur="
@@ -26,7 +26,28 @@
             }
           "
         />
-      </a-form-model-item>
+      </a-form-model-item> -->
+        <!-- <a-form-model-item label="Category">
+          <a-select v-model="form.category" placeholder="please select your category">
+            <a-select-option value="shanghai">
+              Zone one
+            </a-select-option>
+            <a-select-option value="beijing">
+              Zone two
+            </a-select-option>
+          </a-select>
+        </a-form-model-item>  -->
+
+        <a-form-model-item label="Category">
+          <a-select v-model="form.category" placeholder="please select your category">
+            <a-select-option v-for="category in categories" :key="category.value" :value="category.value">
+              {{ category.name }}
+            </a-select-option>
+          </a-select>
+        </a-form-model-item>
+
+        
+     
       <a-form-model-item label="Description" prop="description">
         <a-input v-model="form.description" type="textarea" :rows="4" />
       </a-form-model-item>
@@ -150,6 +171,7 @@ export default {
   },
   data () {
     return {
+      categories: [],
       // Arraysize: 1,
       formDataIm: {
         files: [],
@@ -205,7 +227,19 @@ export default {
       }
     }
   },
+  created() {
+    this.fetchCategories();
+  },
   methods: {
+    async fetchCategories() {
+      try {
+        const response = await this.$api.product.getCategory();
+        console.log(response.data.category)
+        this.categories = response.data.category; // Giả sử response.data là mảng các category
+      } catch (error) {
+        console.error(error);
+      }
+    },
     onSubmit () {
       this.$refs.ruleForm.validate((valid) => {
         if (valid) {

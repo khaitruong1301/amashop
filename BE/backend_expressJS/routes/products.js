@@ -10,4 +10,7 @@ router.get('/product/bin',ProductController.getProductBin)
 router.delete('/',ProductController.deleteProduct)
 router.put('/restore',ProductController.restoreProduct)
 router.put('/edit',ProductController.editProduct)
+router.get('/category/get',ProductController.getCategory)
+router.get('/get-cate/:id',ProductController.getProductCategory)
+
 module.exports=router;

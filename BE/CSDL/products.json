@@ -7,27 +7,24 @@
   "rating": 4.7,
   "category": "t-shirt",
   "images": [
-    "http://res.cloudinary.com/duong1310/image/upload/v1666065353/Home/andshop/ufmsvedwg4lavk86kqut.webp",
-    "http://res.cloudinary.com/duong1310/image/upload/v1666065355/Home/andshop/ygaxukv7tu697wcdkibd.webp"
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699953498/shop/bldslqaeyzdsspln13ts.webp",
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699953498/shop/dpfcrmhaxl4vcqmh9avd.webp"
   ],
   "price": 56,
   "sold": 2,
   "view": 17,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662388788248"
-    }
+    "$date": "2022-09-05T14:39:48.248Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667227670680"
-    }
+    "$date": "2022-10-31T14:47:50.680Z"
   },
   "__v": 0,
   "subject": false,
   "deleted": false,
   "originalPrice": 50
-},{
+},
+{
   "_id": {
     "$oid": "63160d69b970c6169180dc10"
   },
@@ -36,27 +33,24 @@
   "rating": 4.5,
   "category": "Long sleeve shirt",
   "images": [
-    "http://res.cloudinary.com/duong1310/image/upload/v1662389608/Home/andshop/wfl1dba7can6kz3gogdr.webp",
-    "http://res.cloudinary.com/duong1310/image/upload/v1662389610/Home/andshop/zjknfjmi02a0ngawz53s.webp"
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699953678/shop/eeibig9jawa7x7txcwvs.webp",
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699953678/shop/jdow6us8wrfqkf8btmrw.webp"
   ],
   "price": 44,
   "sold": 10,
   "view": 15,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662389609726"
-    }
+    "$date": "2022-09-05T14:53:29.726Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667061848231"
-    }
+    "$date": "2022-10-29T16:44:08.231Z"
   },
   "__v": 0,
   "subject": false,
   "deleted": false,
   "originalPrice": 40
-},{
+},
+{
   "_id": {
     "$oid": "63161031b970c6169180dc18"
   },
@@ -65,27 +59,24 @@
   "rating": 3.9,
   "category": "Long sleeve shirt",
   "images": [
-    "http://res.cloudinary.com/duong1310/image/upload/v1662390320/Home/andshop/rtplbhwqcnofnoiikb4b.webp",
-    "http://res.cloudinary.com/duong1310/image/upload/v1662390321/Home/andshop/xffsjlzvpghcbryie9ur.webp"
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699953729/shop/jtwfujs6aberq9nepuwf.webp",
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699953729/shop/egwpo4l9quosludthcw6.webp"
   ],
   "price": 55,
   "sold": 12,
   "view": 69,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662390321278"
-    }
+    "$date": "2022-09-05T15:05:21.278Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666969153130"
-    }
+    "$date": "2022-10-28T14:59:13.130Z"
   },
   "__v": 0,
   "subject": false,
   "deleted": false,
   "originalPrice": 50
-},{
+},
+{
   "_id": {
     "$oid": "63161255b970c6169180dc20"
   },
@@ -94,26 +85,23 @@
   "rating": 3.9,
   "category": "Sweater",
   "images": [
-    "http://res.cloudinary.com/duong1310/image/upload/v1662390869/Home/andshop/vclogxzzbkv49xusmcyl.webp",
-    "http://res.cloudinary.com/duong1310/image/upload/v1662390870/Home/andshop/dorr8kqwbrcpuvht4bgc.webp"
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699953846/shop/rtyu5sqnywwkb0gdj7uj.webp",
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699953846/shop/yypt7qx9oot2iml6bspv.webp"
   ],
   "price": 66,
   "sold": 6,
   "view": 60,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662390869911"
-    }
+    "$date": "2022-09-05T15:14:29.911Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667228524809"
-    }
+    "$date": "2022-10-31T15:02:04.809Z"
   },
   "__v": 0,
   "subject": false,
   "originalPrice": 60
-},{
+},
+{
   "_id": {
     "$oid": "631613fab970c6169180dc28"
   },
@@ -129,19 +117,16 @@
   "sold": 2,
   "view": 22,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662391290773"
-    }
+    "$date": "2022-09-05T15:21:30.773Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667228122596"
-    }
+    "$date": "2022-10-31T14:55:22.596Z"
   },
   "__v": 0,
   "subject": false,
   "originalPrice": 80
-},{
+},
+{
   "_id": {
     "$oid": "63161918b970c6169180dc30"
   },
@@ -150,27 +135,24 @@
   "rating": 4.5,
   "category": "Long Sleeve Shirt",
   "images": [
-    "http://res.cloudinary.com/duong1310/image/upload/v1662392600/Home/andshop/tgicdrd1f9hpyjbl4kpp.webp",
-    "http://res.cloudinary.com/duong1310/image/upload/v1662392600/Home/andshop/d8noho0jrlkflhxw10vc.webp"
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954071/shop/ltc3czimd6kcfn4zme09.webp",
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954067/shop/zbepcqq0jyhn3rhnec7u.webp"
   ],
   "price": 66,
   "sold": 12,
   "view": 32,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662392600289"
-    }
+    "$date": "2022-09-05T15:43:20.289Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667274792916"
-    }
+    "$date": "2022-11-01T03:53:12.916Z"
   },
   "__v": 0,
   "subject": true,
   "deleted": false,
   "originalPrice": 60
-},{
+},
+{
   "_id": {
     "$oid": "631619ecb970c6169180dc38"
   },
@@ -179,26 +161,23 @@
   "rating": 4.1,
   "category": "Sweater",
   "images": [
-    "http://res.cloudinary.com/duong1310/image/upload/v1662392812/Home/andshop/filxhtai1apaeych5poi.webp",
-    "http://res.cloudinary.com/duong1310/image/upload/v1662392812/Home/andshop/e3hreu3b97ggysbw6fxi.webp"
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954071/shop/fkfcnfqfx5jhnoeqnadv.webp",
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954072/shop/stvadmq0tkmiedpe5f2l.webp"
   ],
   "price": 60,
   "sold": 9,
   "view": 153,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662392812309"
-    }
+    "$date": "2022-09-05T15:46:52.309Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667228486802"
-    }
+    "$date": "2022-10-31T15:01:26.802Z"
   },
   "__v": 0,
   "subject": false,
   "originalPrice": 55
-},{
+},
+{
   "_id": {
     "$oid": "63161a61b970c6169180dc40"
   },
@@ -207,27 +186,24 @@
   "rating": 3.7,
   "category": "Sweater",
   "images": [
-    "http://res.cloudinary.com/duong1310/image/upload/v1662392928/Home/andshop/ppeemdgmweoo8brhjiev.webp",
-    "http://res.cloudinary.com/duong1310/image/upload/v1662392929/Home/andshop/yjslixu3i1i5fwlnikd9.webp"
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954065/shop/funhcnt4j1owkkheqagw.webp",
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954065/shop/funhcnt4j1owkkheqagw.webp"
   ],
   "price": 40,
   "sold": 3,
   "view": 152,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662392929003"
-    }
+    "$date": "2022-09-05T15:48:49.003Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667275059798"
-    }
+    "$date": "2022-11-01T03:57:39.798Z"
   },
   "__v": 0,
   "subject": false,
   "deleted": false,
   "originalPrice": 35
-},{
+},
+{
   "_id": {
     "$oid": "63172540d5501d37b7d9897f"
   },
@@ -236,27 +212,24 @@
   "rating": 5,
   "category": "Jacket",
   "images": [
-    "http://res.cloudinary.com/duong1310/image/upload/v1662461247/Home/andshop/ju9xmxoy7xankqdfwugn.webp",
-    "http://res.cloudinary.com/duong1310/image/upload/v1662461248/Home/andshop/gjbvrocv0aoba4zylbkw.webp"
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954069/shop/kigrlxsfnaanptgu8nuy.webp",
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954069/shop/lkd0fqe6dpfibvjnee1g.webp"
   ],
   "price": 56,
   "sold": 1,
   "view": 21,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1662461248277"
-    }
+    "$date": "2022-09-06T10:47:28.277Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666338024085"
-    }
+    "$date": "2022-10-21T07:40:24.085Z"
   },
   "__v": 0,
   "subject": false,
   "deleted": false,
   "originalPrice": 50
-},{
+},
+{
   "_id": {
     "$oid": "635d655b6cbb4c1d05db783b"
   },
@@ -265,27 +238,24 @@
   "rating": 5,
   "category": "Sweatshirt",
   "images": [
-    "http://res.cloudinary.com/duong1310/image/upload/v1667065175/Home/andshop/iuwrzczgb83yxg3kffb4.webp",
-    "http://res.cloudinary.com/duong1310/image/upload/v1667065176/Home/andshop/oobj4nm8ccbrccg8qhw6.webp"
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954071/shop/z2uippqk6wu2qcz3kml4.webp",
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954069/shop/neysucctlxrwedvrrll5.webp"
   ],
   "price": 112,
   "originalPrice": 88,
-  "sold": 0,
+  "sold": 1,
   "view": 6,
   "subject": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667065179148"
-    }
+    "$date": "2022-10-29T17:39:39.148Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667066716192"
-    }
+    "$date": "2023-11-14T06:37:26.226Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d664abd811c14bbae6249"
   },
@@ -294,8 +264,8 @@
   "rating": 4.5,
   "category": "Coat",
   "images": [
-    "https://res.cloudinary.com/duong1310/image/upload/v1667065417/Home/andshop/mwyslpd4uygw390adned.webp",
-    "https://res.cloudinary.com/duong1310/image/upload/v1667065416/Home/andshop/ycyxhyhsudljtxfpnq5v.webp"
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954068/shop/lapxadtreivcuydfpfxh.webp",
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954064/shop/nw1kzydyhrxkp3mqpzp7.webp"
   ],
   "price": 112,
   "originalPrice": 88,
@@ -304,17 +274,14 @@
   "subject": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667065418531"
-    }
+    "$date": "2022-10-29T17:43:38.531Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667288760728"
-    }
+    "$date": "2022-11-01T07:46:00.728Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d68b8bd811c14bbae62ad"
   },
@@ -323,53 +290,46 @@
   "rating": 4.7,
   "category": "Coat",
   "images": [
-    "http://res.cloudinary.com/duong1310/image/upload/v1667066038/Home/andshop/nrsotxh2zud8md8xdogp.webp",
-    "http://res.cloudinary.com/duong1310/image/upload/v1667066039/Home/andshop/uxo7r36kqtjpjn5v78qq.webp"
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954066/shop/l33mtt9efigt6eqvinyo.webp",
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954068/shop/rixdrokirg9glphcdkkf.webp"
   ],
   "price": 80,
   "originalPrice": 70,
   "sold": 0,
-  "view": 16,
+  "view": 17,
   "subject": true,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667066040565"
-    }
+    "$date": "2022-10-29T17:54:00.565Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667121556482"
-    }
+    "$date": "2023-11-14T02:34:41.709Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d6930bd811c14bbae62b3"
   },
   "name": "SHEIN Men Single Breasted Blazer",
   "description": "Product information Zip Half Placket Crop Slim Tee high quality Korean style comfortable to wear VNXK H3.\n\nMen's khaki shorts are designed according to the standard form of Vietnamese men.\n\nMen's khaki shorts are the latest design of VESCA.",
   "rating": 5,
-  "category": "Breasted Blaze",
+  "category": "shoe",
   "images": [
-    "http://res.cloudinary.com/duong1310/image/upload/v1667066158/Home/andshop/mkjurijog0falzufo8rd.webp",
-    "http://res.cloudinary.com/duong1310/image/upload/v1667066159/Home/andshop/gxgmvbz63vcudtmvzzd3.webp"
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954068/shop/hsg2vwsuvypbcoleyqwl.webp",
+    "https://res.cloudinary.com/dcrky5f1l/image/upload/v1699954070/shop/ixqcid8n77kprpjvmkub.webp"
   ],
   "price": 80,
   "originalPrice": 70,
   "sold": 0,
-  "view": 5,
+  "view": 6,
   "subject": true,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667066160030"
-    }
+    "$date": "2022-10-29T17:56:00.030Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1668149295656"
-    }
+    "$date": "2023-11-14T04:22:56.150Z"
   },
   "__v": 0
 }]

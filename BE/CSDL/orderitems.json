@@ -13,17 +13,14 @@
   "price": 66,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666968745155"
-    }
+    "$date": "2022-10-28T14:52:25.155Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968745155"
-    }
+    "$date": "2022-10-28T14:52:25.155Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635beca931edb42af9610abd"
   },
@@ -38,17 +35,14 @@
   "price": 66,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666968745156"
-    }
+    "$date": "2022-10-28T14:52:25.156Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968745156"
-    }
+    "$date": "2022-10-28T14:52:25.156Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635beca931edb42af9610abc"
   },
@@ -63,17 +57,14 @@
   "price": 60,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666968745156"
-    }
+    "$date": "2022-10-28T14:52:25.156Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968745156"
-    }
+    "$date": "2022-10-28T14:52:25.156Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635becc131edb42af9610b2c"
   },
@@ -88,17 +79,14 @@
   "price": 40,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666968769989"
-    }
+    "$date": "2022-10-28T14:52:49.989Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968769989"
-    }
+    "$date": "2022-10-28T14:52:49.989Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635becd831edb42af9610b79"
   },
@@ -113,17 +101,14 @@
   "price": 60,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666968792285"
-    }
+    "$date": "2022-10-28T14:53:12.285Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968792285"
-    }
+    "$date": "2022-10-28T14:53:12.285Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635becd831edb42af9610b7a"
   },
@@ -138,17 +123,14 @@
   "price": 40,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666968792285"
-    }
+    "$date": "2022-10-28T14:53:12.285Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968792285"
-    }
+    "$date": "2022-10-28T14:53:12.285Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635becd831edb42af9610b7b"
   },
@@ -163,17 +145,14 @@
   "price": 66,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666968792285"
-    }
+    "$date": "2022-10-28T14:53:12.285Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968792285"
-    }
+    "$date": "2022-10-28T14:53:12.285Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635bed0231edb42af9610bef"
   },
@@ -186,19 +165,16 @@
   "size": "L",
   "quantity": 1,
   "price": 56,
-  "deleted": false,
+  "deleted": true,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666968834439"
-    }
+    "$date": "2022-10-28T14:53:54.439Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968834439"
-    }
+    "$date": "2023-11-14T03:18:05.513Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635bed0231edb42af9610bf0"
   },
@@ -211,19 +187,16 @@
   "size": "L",
   "quantity": 1,
   "price": 66,
-  "deleted": false,
+  "deleted": true,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666968834439"
-    }
+    "$date": "2022-10-28T14:53:54.439Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968834439"
-    }
+    "$date": "2023-11-14T03:18:05.513Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635bed1931edb42af9610c3d"
   },
@@ -236,19 +209,16 @@
   "size": "L",
   "quantity": 1,
   "price": 44,
-  "deleted": false,
+  "deleted": true,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666968857309"
-    }
+    "$date": "2022-10-28T14:54:17.309Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968857309"
-    }
+    "$date": "2023-11-14T03:18:05.513Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635bfaf431edb42af9610f6e"
   },
@@ -263,17 +233,14 @@
   "price": 66,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666972404267"
-    }
+    "$date": "2022-10-28T15:53:24.267Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666972404267"
-    }
+    "$date": "2022-10-28T15:53:24.267Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635bfaf431edb42af9610f6f"
   },
@@ -288,17 +255,14 @@
   "price": 60,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666972404267"
-    }
+    "$date": "2022-10-28T15:53:24.267Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666972404267"
-    }
+    "$date": "2022-10-28T15:53:24.267Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635bfb2331edb42af9610fdc"
   },
@@ -313,17 +277,14 @@
   "price": 60,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666972451919"
-    }
+    "$date": "2022-10-28T15:54:11.919Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666972451919"
-    }
+    "$date": "2022-10-28T15:54:11.919Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d51f16a7562cc68966b9a"
   },
@@ -338,17 +299,14 @@
   "price": 66,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1664468209686"
-    }
+    "$date": "2022-09-29T16:16:49.686Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667060209686"
-    }
+    "$date": "2022-10-29T16:16:49.686Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d51f16a7562cc68966b9b"
   },
@@ -363,17 +321,14 @@
   "price": 60,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1664468209686"
-    }
+    "$date": "2022-09-29T16:16:49.686Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667060209686"
-    }
+    "$date": "2022-10-29T16:16:49.686Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d578508985df0e6091862"
   },
@@ -388,17 +343,14 @@
   "price": 44,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1661791237132"
-    }
+    "$date": "2022-08-29T16:40:37.132Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667061637132"
-    }
+    "$date": "2022-10-29T16:40:37.132Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d57d208985df0e60918d6"
   },
@@ -413,17 +365,14 @@
   "price": 66,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1656520914235"
-    }
+    "$date": "2022-06-29T16:41:54.235Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1656520914235"
-    }
+    "$date": "2022-06-29T16:41:54.235Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d57f608985df0e609192a"
   },
@@ -438,17 +387,14 @@
   "price": 44,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1659112950674"
-    }
+    "$date": "2022-07-29T16:42:30.674Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1659112950674"
-    }
+    "$date": "2022-07-29T16:42:30.674Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d585408985df0e609197e"
   },
@@ -463,17 +409,14 @@
   "price": 66,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1653842644507"
-    }
+    "$date": "2022-05-29T16:44:04.507Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667061844507"
-    }
+    "$date": "2022-10-29T16:44:04.507Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d586b08985df0e60919da"
   },
@@ -488,17 +431,14 @@
   "price": 44,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1648572267266"
-    }
+    "$date": "2022-03-29T16:44:27.266Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667061867266"
-    }
+    "$date": "2022-10-29T16:44:27.266Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d58d108985df0e6091a77"
   },
@@ -513,17 +453,14 @@
   "price": 60,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1651250769969"
-    }
+    "$date": "2022-04-29T16:46:09.969Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667061969969"
-    }
+    "$date": "2022-10-29T16:46:09.969Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d58d108985df0e6091a78"
   },
@@ -538,17 +475,14 @@
   "price": 40,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1651250769969"
-    }
+    "$date": "2022-04-29T16:46:09.969Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667061969969"
-    }
+    "$date": "2022-10-29T16:46:09.969Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d58fb08985df0e6091ac4"
   },
@@ -563,17 +497,14 @@
   "price": 56,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1643734011036"
-    }
+    "$date": "2022-02-01T16:46:51.036Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667062011036"
-    }
+    "$date": "2022-10-29T16:46:51.036Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d596808985df0e6091b33"
   },
@@ -588,17 +519,14 @@
   "price": 66,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1643474920803"
-    }
+    "$date": "2022-01-29T16:48:40.803Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667062120803"
-    }
+    "$date": "2022-10-29T16:48:40.803Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d596808985df0e6091b34"
   },
@@ -613,17 +541,14 @@
   "price": 60,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1643474920804"
-    }
+    "$date": "2022-01-29T16:48:40.804Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667062120804"
-    }
+    "$date": "2022-10-29T16:48:40.804Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d596808985df0e6091b35"
   },
@@ -638,17 +563,14 @@
   "price": 40,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1643474920804"
-    }
+    "$date": "2022-01-29T16:48:40.804Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667062120804"
-    }
+    "$date": "2022-10-29T16:48:40.804Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d69bcbd811c14bbae6380"
   },
@@ -663,17 +585,14 @@
   "price": 112,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667066300447"
-    }
+    "$date": "2022-10-29T17:58:20.447Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667066300447"
-    }
+    "$date": "2022-10-29T17:58:20.447Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635dd5e7ca662b6c157f6663"
   },
@@ -688,17 +607,14 @@
   "price": 112,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1635557991683"
-    }
+    "$date": "2021-10-30T01:39:51.683Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667093991683"
-    }
+    "$date": "2022-10-30T01:39:51.683Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635dd8cfac0d1e201d387258"
   },
@@ -713,17 +629,14 @@
   "price": 112,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1635558735439"
-    }
+    "$date": "2021-10-30T01:52:15.439Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667094735439"
-    }
+    "$date": "2022-10-30T01:52:15.439Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635e35bf82d241a625bd57f5"
   },
@@ -736,19 +649,16 @@
   "size": "L",
   "quantity": 1,
   "price": 112,
-  "deleted": false,
+  "deleted": true,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1664526527026"
-    }
+    "$date": "2022-09-30T08:28:47.026Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667118527026"
-    }
+    "$date": "2023-11-14T03:18:05.513Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635fe0e20accc3aa494c1d54"
   },
@@ -761,19 +671,16 @@
   "size": "L",
   "quantity": 1,
   "price": 112,
-  "deleted": false,
+  "deleted": true,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667227874739"
-    }
+    "$date": "2022-10-31T14:51:14.739Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667227874739"
-    }
+    "$date": "2023-11-14T03:18:05.513Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "636095209cb51d28014fb77b"
   },
@@ -788,17 +695,14 @@
   "price": 66,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667274016080"
-    }
+    "$date": "2022-11-01T03:40:16.080Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667274016080"
-    }
+    "$date": "2022-11-01T03:40:16.080Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "636095209cb51d28014fb77c"
   },
@@ -813,17 +717,14 @@
   "price": 60,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667274016081"
-    }
+    "$date": "2022-11-01T03:40:16.081Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667274016081"
-    }
+    "$date": "2022-11-01T03:40:16.081Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "6360954b9cb51d28014fb7e9"
   },
@@ -838,17 +739,14 @@
   "price": 112,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667274059376"
-    }
+    "$date": "2022-11-01T03:40:59.376Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667274059376"
-    }
+    "$date": "2022-11-01T03:40:59.376Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "6360990f9cb51d28014fbc14"
   },
@@ -861,16 +759,56 @@
   "size": "L",
   "quantity": 1,
   "price": 40,
-  "deleted": false,
+  "deleted": true,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667275023691"
-    }
+    "$date": "2022-11-01T03:57:03.691Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667275023691"
-    }
+    "$date": "2023-11-14T03:18:05.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6552f662c9659196b2df9763"
+  },
+  "order": {
+    "$oid": "6552f662c9659196b2df9760"
+  },
+  "product": {
+    "$oid": "635d6930bd811c14bbae62b3"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 80,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-14T04:24:02.764Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T04:24:02.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6552f662c9659196b2df9762"
+  },
+  "order": {
+    "$oid": "6552f662c9659196b2df9760"
+  },
+  "product": {
+    "$oid": "635d664abd811c14bbae6249"
+  },
+  "size": "L",
+  "quantity": 1,
+  "price": 112,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-14T04:24:02.764Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T04:24:02.764Z"
   },
   "__v": 0
 }]

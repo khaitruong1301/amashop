@@ -7,10 +7,10 @@ cloudinary.config({
   const delteImage = async(imagesId)=>{
         // console.log(cloudinary.config());  
         for(let i=0; i<imagesId.length; i++){
-          console.log('call delete')
+          // console.log('call delete')
           await   cloudinary.uploader.destroy(
-              `Home/andshop/${imagesId[i]}`,
-              { invalidate: true, resource_type: "image" }).then(result => console.log(result))
+              `shop/${imagesId[i]}`,
+              { invalidate: true, resource_type: "image" }).then(result => {})
                                                             .catch(error=>console.log(error))
         }
   }
