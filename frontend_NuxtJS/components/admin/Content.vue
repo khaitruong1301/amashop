@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col flex-wrap sm:flex-row">
     <div class="w-full md:w-4/12 pr-2 mb-6">
-      <div class="shadow rounded-2xl p-4 bg-white dark:bg-[#1F2937]">
+      <div class="shadow rounded-2xl p-4 bg-white">
         <div class="flex items-center">
           <span class="rounded-xl relative p-4 bg-[#E9D5FF]">
             <svg

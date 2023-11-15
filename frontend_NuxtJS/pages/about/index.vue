@@ -67,7 +67,7 @@
     background-image: url('@/static/banner/banner_single.png');
     position: relative;
     background-repeat: no-repeat;
-    background-size: cover cover;
+    background-size: cover;
     padding: 100px 0 140px 0;
     width: 100%;
   }
