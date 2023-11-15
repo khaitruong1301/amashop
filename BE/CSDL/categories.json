@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "655435511983e1db05f81cc5"
+  },
+  "value": "Bags",
+  "name": "Bags",
+  "image": "https://res.cloudinary.com/dcrky5f1l/image/upload/v1700018654/category/hvy7rxev4bgoagi8wzf6.png"
+},
+{
+  "_id": {
+    "$oid": "6554360a1983e1db05f81cc6"
+  },
+  "value": "Watch",
+  "name": "Watch",
+  "image": "https://res.cloudinary.com/dcrky5f1l/image/upload/v1700018589/category/ikmoqm94do2ystpw6hzo.png"
+},
+{
+  "_id": {
+    "$oid": "6554362b1983e1db05f81cc7"
+  },
+  "value": "Cap",
+  "name": "Cap",
+  "image": "https://res.cloudinary.com/dcrky5f1l/image/upload/v1700018654/category/mejws6ucr8g6lxnrwoay.png"
+},
+{
+  "_id": {
+    "$oid": "655436331983e1db05f81cc8"
+  },
+  "value": "Clothes",
+  "name": "Clothes",
+  "image": "https://res.cloudinary.com/dcrky5f1l/image/upload/v1700030607/category/frnzdbygydohwgeixy2f.png"
+},
+{
+  "_id": {
+    "$oid": "655436361983e1db05f81cc9"
+  },
+  "value": "Sunglass",
+  "name": "Sunglass",
+  "image": "https://res.cloudinary.com/dcrky5f1l/image/upload/v1700018606/category/ioculipfi0lhmheljbys.png"
+},
+{
+  "_id": {
+    "$oid": "655436381983e1db05f81cca"
+  },
+  "value": "Boots",
+  "name": "Boots",
+  "image": "https://res.cloudinary.com/dcrky5f1l/image/upload/v1700018654/category/fzukgq4ds4deta53m74n.png"
+},
+{
+  "_id": {
+    "$oid": "6554363f1983e1db05f81ccb"
+  },
+  "value": "Gold Rings",
+  "name": "Gold Rings",
+  "image": "https://res.cloudinary.com/dcrky5f1l/image/upload/v1700018653/category/vzgwqsmvegvlohp62ec3.png"
+},
+{
+  "_id": {
+    "$oid": "655436421983e1db05f81ccc"
+  },
+  "value": "Wine",
+  "name": "Wine",
+  "image": "https://res.cloudinary.com/dcrky5f1l/image/upload/v1700018574/category/mt3tatrfiko1ospcnmgn.png"
+},
+{
+  "_id": {
+    "$oid": "655436451983e1db05f81ccd"
+  },
+  "value": "Sofa",
+  "name": "Sofa",
+  "image": "https://res.cloudinary.com/dcrky5f1l/image/upload/v1700018652/category/tyegq0fut95v8f3gh8d5.png"
+},
+{
+  "_id": {
+    "$oid": "655436491983e1db05f81cce"
+  },
+  "value": "Perfume",
+  "name": "Perfume",
+  "image": "https://res.cloudinary.com/dcrky5f1l/image/upload/v1700018654/category/j1c4wmf21fz5g33skh14.png"
+}]
