@@ -554,6 +554,8 @@ const getCategoryByProduct = async (req, res, next) => {
         },
       },
     ]);
+    
+    
     const categorys = listCategory
       .filter((item, index, arrayCate) => {
         return (
@@ -566,6 +568,8 @@ const getCategoryByProduct = async (req, res, next) => {
         );
       })
       .map((item) => item.category);
+
+     
     // console.log(categorys);
     const numberCategory = await Bluebird.map(
       categorys,
@@ -589,6 +593,7 @@ const getCategoryByProduct = async (req, res, next) => {
       },
       { concurrency: categorys.length }
     );
+
     res.status(200).json({ success: true, numberCategory });
   } catch (err) {
     next(err);

@@ -12,17 +12,14 @@
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666968745106"
-    }
+    "$date": "2022-10-28T14:52:25.106Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968745106"
-    }
+    "$date": "2022-10-28T14:52:25.106Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635becc131edb42af9610b2a"
   },
@@ -36,17 +33,14 @@
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666968769984"
-    }
+    "$date": "2022-10-28T14:52:49.984Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968769984"
-    }
+    "$date": "2022-10-28T14:52:49.984Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635becd831edb42af9610b77"
   },
@@ -60,65 +54,14 @@
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666968792274"
-    }
+    "$date": "2022-10-28T14:53:12.274Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968792274"
-    }
+    "$date": "2022-10-28T14:53:12.274Z"
   },
   "__v": 0
-},{
-  "_id": {
-    "$oid": "635bed0231edb42af9610bed"
-  },
-  "user": {
-    "$oid": "630f78dc6812ccc7b066b2cc"
-  },
-  "deliveryAddress": "Ha Noi",
-  "fullName": "Nguyen Van long",
-  "phoneNumber": "0359933921",
-  "status": true,
-  "cancel": false,
-  "deleted": false,
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1666968834431"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1667227670311"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "635bed1931edb42af9610c3b"
-  },
-  "user": {
-    "$oid": "630f78dc6812ccc7b066b2cc"
-  },
-  "deliveryAddress": "Ha Noi",
-  "fullName": "Dong Van Duong",
-  "phoneNumber": "0359933921",
-  "status": false,
-  "cancel": false,
-  "deleted": false,
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1666968857303"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1666968857303"
-    }
-  },
-  "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635bfaf431edb42af9610f6c"
   },
@@ -132,17 +75,14 @@
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666972404257"
-    }
+    "$date": "2022-10-28T15:53:24.257Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666972404257"
-    }
+    "$date": "2022-10-28T15:53:24.257Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635bfb2331edb42af9610fda"
   },
@@ -156,65 +96,14 @@
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1666972451915"
-    }
+    "$date": "2022-10-28T15:54:11.915Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1666972451915"
-    }
+    "$date": "2022-10-28T15:54:11.915Z"
   },
   "__v": 0
-},{
-  "_id": {
-    "$oid": "635d51f16a7562cc68966b98"
-  },
-  "user": {
-    "$oid": "63301a9121deacf2693feab2"
-  },
-  "deliveryAddress": "Ha Noi",
-  "fullName": "duong dong",
-  "phoneNumber": "0359933921",
-  "status": false,
-  "cancel": false,
-  "deleted": false,
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1667060209674"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1667060209674"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "635d578508985df0e6091860"
-  },
-  "user": {
-    "$oid": "63301a9121deacf2693feab2"
-  },
-  "deliveryAddress": "Ha Noi",
-  "fullName": "duong dong",
-  "phoneNumber": "0359933921",
-  "status": false,
-  "cancel": true,
-  "deleted": false,
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1667061637124"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1667228445118"
-    }
-  },
-  "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d57d208985df0e60918d4"
   },
@@ -228,17 +117,14 @@
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667061714227"
-    }
+    "$date": "2022-10-29T16:41:54.227Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667061714227"
-    }
+    "$date": "2022-10-29T16:41:54.227Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d57f608985df0e6091928"
   },
@@ -252,17 +138,14 @@
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667061750474"
-    }
+    "$date": "2022-10-29T16:42:30.474Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667061750474"
-    }
+    "$date": "2022-10-29T16:42:30.474Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d585408985df0e609197c"
   },
@@ -276,17 +159,14 @@
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667061844499"
-    }
+    "$date": "2022-10-29T16:44:04.499Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667061844499"
-    }
+    "$date": "2022-10-29T16:44:04.499Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d586b08985df0e60919d8"
   },
@@ -300,17 +180,14 @@
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667061867260"
-    }
+    "$date": "2022-10-29T16:44:27.260Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667061867260"
-    }
+    "$date": "2022-10-29T16:44:27.260Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d58d108985df0e6091a75"
   },
@@ -324,17 +201,14 @@
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667061969961"
-    }
+    "$date": "2022-10-29T16:46:09.961Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667061969961"
-    }
+    "$date": "2022-10-29T16:46:09.961Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d58fb08985df0e6091ac2"
   },
@@ -348,17 +222,14 @@
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667062011031"
-    }
+    "$date": "2022-10-29T16:46:51.031Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667062011031"
-    }
+    "$date": "2022-10-29T16:46:51.031Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d596808985df0e6091b31"
   },
@@ -372,17 +243,14 @@
   "cancel": true,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667062120792"
-    }
+    "$date": "2022-10-29T16:48:40.792Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667288247226"
-    }
+    "$date": "2022-11-01T07:37:27.226Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635d69bcbd811c14bbae637e"
   },
@@ -396,17 +264,14 @@
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667066300437"
-    }
+    "$date": "2022-10-29T17:58:20.437Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667066353538"
-    }
+    "$date": "2022-10-29T17:59:13.538Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635dd5e7ca662b6c157f6661"
   },
@@ -416,21 +281,18 @@
   "deliveryAddress": "Ha Noi",
   "fullName": "duong dong",
   "phoneNumber": "0359933921",
-  "status": false,
+  "status": true,
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1635557991668"
-    }
+    "$date": "2021-10-30T01:39:51.668Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667093991668"
-    }
+    "$date": "2023-11-14T06:37:26.215Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635dd8cfac0d1e201d387256"
   },
@@ -444,41 +306,14 @@
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1635558735432"
-    }
+    "$date": "2021-10-30T01:52:15.432Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667094735432"
-    }
+    "$date": "2022-10-30T01:52:15.432Z"
   },
   "__v": 0
-},{
-  "_id": {
-    "$oid": "635e35be82d241a625bd57f3"
-  },
-  "user": {
-    "$oid": "630f78dc6812ccc7b066b2cc"
-  },
-  "deliveryAddress": "Ha Noi",
-  "fullName": "duong dong",
-  "phoneNumber": "0359933921",
-  "status": false,
-  "cancel": false,
-  "deleted": false,
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1664526527000"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1667118527000"
-    }
-  },
-  "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "635fe0e20accc3aa494c1d52"
   },
@@ -490,19 +325,16 @@
   "phoneNumber": "0359933921",
   "status": true,
   "cancel": false,
-  "deleted": false,
+  "deleted": true,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667227874730"
-    }
+    "$date": "2022-10-31T14:51:14.730Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667227904606"
-    }
+    "$date": "2023-11-14T03:18:05.516Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "636095209cb51d28014fb779"
   },
@@ -516,17 +348,14 @@
   "cancel": true,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667274016064"
-    }
+    "$date": "2022-11-01T03:40:16.064Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667274029828"
-    }
+    "$date": "2022-11-01T03:40:29.828Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "6360954b9cb51d28014fb7e7"
   },
@@ -540,17 +369,14 @@
   "cancel": false,
   "deleted": false,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667274059368"
-    }
+    "$date": "2022-11-01T03:40:59.368Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667274059368"
-    }
+    "$date": "2022-11-01T03:40:59.368Z"
   },
   "__v": 0
-},{
+},
+{
   "_id": {
     "$oid": "6360990f9cb51d28014fbc12"
   },
@@ -562,16 +388,33 @@
   "phoneNumber": "0359933921",
   "status": true,
   "cancel": false,
-  "deleted": false,
+  "deleted": true,
   "createdAt": {
-    "$date": {
-      "$numberLong": "1667275023685"
-    }
+    "$date": "2022-11-01T03:57:03.685Z"
   },
   "updatedAt": {
-    "$date": {
-      "$numberLong": "1667275059785"
-    }
+    "$date": "2023-11-14T03:18:05.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6552f662c9659196b2df9760"
+  },
+  "user": {
+    "$oid": "6310d0aba7a6e8b83c3b8f7e"
+  },
+  "deliveryAddress": "Vĩnh Lộc B, đường số 5, Lô C3, Hộ 204, Huyện Bình Chánh, Xã Vĩnh Lộc B, Huyện Bình Chánh, Hồ Chí Minh",
+  "fullName": "Nguyen Sang",
+  "phoneNumber": "+10906935483",
+  "status": false,
+  "cancel": false,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-14T04:24:02.757Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T06:37:33.012Z"
   },
   "__v": 0
 }]

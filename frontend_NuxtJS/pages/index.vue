@@ -1,6 +1,7 @@
 <template>
   <div>
     <VmHero />
+    <Category />
     <!-- <VmSubheader /> -->
     <!-- <VmProductsList /> -->
     <tab-product />
@@ -14,11 +15,13 @@
 // import VmProductsList from '@/components/products_list/ProductsListContainer'
 import TabProduct from '@/components/tab/TabProduct.vue'
 import VmHero from '@/components/hero/Hero'
+import Category from '/components/products_list/CategoryList'
 // import VmSubheader from '@/components/subheader/Subheader'  timkiem
 
 export default {
   name: 'Index',
   components: {
+    Category,
     TabProduct,
     // VmProductsList,
     VmHero

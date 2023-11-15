@@ -22,5 +22,9 @@ export default (axios) => ({
   },
   editProduct (data) {
     return axios.put('/products/edit', data)
+  },
+
+  getCategory () {
+    return axios.get('/products/category/get')
   }
 })

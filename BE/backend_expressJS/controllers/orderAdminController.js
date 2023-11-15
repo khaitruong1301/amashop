@@ -46,7 +46,7 @@ const searchOrderPage=async(querySearch,limit=50,page=1)=>{
         const [listOrder,totalItem]=await Bluebird.all([searchOrder(query,vLimit,vPage),Order.countDocuments(query)])
         console.log("TotalItem: ",totalItem)
         const pages=Math.ceil(totalItem/vLimit)
-        return {listOrder,totalItem,pages}
+        return {listOrder,totalItem,pages,page:vPage}
 }
 const getOrder = async (req,res,next)=>{
     try{
