@@ -19,8 +19,8 @@
         }"
       >
         <div class="overflow-hidden relative">
-          <img class="rounded-t-2xl img_show1" :src="product.images[0]" alt="Placeholder image">
-          <img class="rounded-t-2xl img_show2 absolute top-0 opacity-0" :src="product.images[1]" alt="Placeholder image">
+          <img style="width:100%;height:350px;object-fit: cover;"  class="rounded-t-2xl img_show1" :src="product.images[0]" alt="Placeholder image">
+          <img style="width:100%;height:350px;object-fit: cover;"  class="rounded-t-2xl img_show2 absolute top-0 opacity-0" :src="product.images[1]" alt="Placeholder image">
         </div>
       </nuxt-link>
       <div class="top-0 absolute left-0 bg-[#00D100] m-4 rounded-sm  text-white">
